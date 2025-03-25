@@ -1,5 +1,7 @@
 > [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official places to download Bloxstrap are this GitHub repository and [bloxstraplabs.com]
+> (https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not controlled by us.
+> please download the .net app from this link, this is the official microsoft link: https://dotnet.microsoft.com/en-us/download
 
 <p align="center">
     <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">

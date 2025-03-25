@@ -1,7 +1,7 @@
 > [!CAUTION]
 > The only official places to download Bloxstrap are this GitHub repository and [bloxstraplabs.com]
 > (https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not controlled by us.
->  Please download the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true)
+> Also, please download the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true)
 <p align="center">
     <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
     <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420">
